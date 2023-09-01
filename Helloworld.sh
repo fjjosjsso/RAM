@@ -1,4 +1,2 @@
-hello hello helllo hello
-exit
-
-exit
+#!/bin/bash
+echo "hello world"
